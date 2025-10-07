@@ -3,6 +3,9 @@ novo_ambiente/
 venv/
 .env/
 
+# Banco de dados gerado pelo SQLAlchemy (recriado localmente)
+ecommerce.db
+
 # Arquivos do VSCode, cache e temporários
 .vscode/
 __pycache__/
@@ -11,6 +14,7 @@ __pycache__/
 *.pyd
 *.db
 .DS_Store
+*.log
 
 # Arquivos do sistema
 Thumbs.db
