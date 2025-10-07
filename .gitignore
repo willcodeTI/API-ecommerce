@@ -1,0 +1,17 @@
+# Ignorar o ambiente virtual
+novo_ambiente/
+venv/
+env/
+
+# Arquivos do VSCode, cache e temporários
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+
+# Arquivos do sistema
+Thumbs.db
+desktop.ini
