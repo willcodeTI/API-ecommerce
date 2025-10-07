@@ -1,7 +1,7 @@
 # Ignorar o ambiente virtual
 novo_ambiente/
 venv/
-env/
+.env/
 
 # Arquivos do VSCode, cache e temporários
 .vscode/
